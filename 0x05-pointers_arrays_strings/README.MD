@@ -1,1 +1,1 @@
-Basic and advanced tasks for C-Pointers,arrays and strings.
+Basic and advanced tasks for C-Pointers,arrays and strings
