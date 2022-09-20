@@ -1,0 +1,1 @@
+Basic and advanced tasks for ALX Low Level Programming 0x05 C-pointer, arrays and strings.
