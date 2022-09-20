@@ -1,1 +1,0 @@
-Basic and advanced tasks for ALX low level programming on C-pointers,arrays and strings
